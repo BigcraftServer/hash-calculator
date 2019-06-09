@@ -10,5 +10,7 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 
+
 # Node.js
 node_modules/
+miniprogram/pages/*/*.js
